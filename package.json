@@ -1,0 +1,20 @@
+{
+  "name": "prettierrc-best",
+  "version": "1.0.0",
+  "description": "代码风格规范化最佳实践：prettierrc + vscode 插件和自定义工作区; 打造个性团队的最佳规范。",
+  "main": "prettierrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luozyiii/prettierrc-best.git"
+  },
+  "keywords": [],
+  "author": "leslie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luozyiii/prettierrc-best/issues"
+  },
+  "homepage": "https://github.com/luozyiii/prettierrc-best#readme"
+}
