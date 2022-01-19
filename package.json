@@ -8,7 +8,7 @@
     "prepare": "husky install"
   },
   "lint-staged": {
-    "**/*": "prettier --write ."
+    "**/*": "prettier --write --ignore-unknown"
   },
   "repository": {
     "type": "git",
