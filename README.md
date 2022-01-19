@@ -75,8 +75,8 @@ coverage
 
 ### Git hooks 代码提交前格式化
 
-```
-
+```bash
+pnpm install --save-dev husky lint-staged
 ```
 
 ### 总结
