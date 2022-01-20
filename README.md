@@ -83,6 +83,10 @@ npm install --save-dev husky lint-staged
 # 全局格式化
 npx prettier --write .
 
+# 配置命令到package.json
+"format": "npx prettier --write ."
+npm run format
+
 # Git hooks 的依赖
 npm install --save-dev husky lint-staged
 npx husky install
